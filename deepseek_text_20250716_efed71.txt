@@ -1,0 +1,5 @@
+mi-tienda-cuadros/
+├── index.html    (página principal)
+├── css/
+│   └── estilo.css
+└── img/         (aquí pondrás tus imágenes)
